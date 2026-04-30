@@ -1,0 +1,4 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "RebrickableMcp/bin/Release/net10.0/publish"
+}
